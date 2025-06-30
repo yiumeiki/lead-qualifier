@@ -1,0 +1,51 @@
+id,name,company,industry,size,source,created_at
+1,Roy Jones,"Burch, Phillips and Turner",Finance,157,Email,2025-06-14T12:12:30.548799Z
+2,Alan Garcia,Gonzalez-Mendoza,Healthcare,349,Organic,2025-06-09T12:12:30.549071Z
+3,Susan Hendricks,Thomas Inc,Manufacturing,177,PPC,2025-06-22T12:12:30.549171Z
+4,Cory Barker,Gamble Ltd,Finance,443,Email,2025-06-04T12:12:30.549249Z
+5,Joseph Wells,"Meyer, Phillips and Walsh",Finance,480,PPC,2025-06-24T12:12:30.549322Z
+6,Abigail Hill,Mccoy-Benson,Technology,233,PPC,2025-06-19T12:12:30.549465Z
+7,Cassandra Norton,Patel Ltd,Technology,335,Organic,2025-05-27T12:12:30.549606Z
+8,Ronald Bird,"Warner, Thompson and Webb",Finance,459,Email,2025-06-03T12:12:30.549707Z
+9,Megan Conway,Woodard Group,Manufacturing,253,Email,2025-06-09T12:12:30.549845Z
+10,Amy Guerrero,Graves and Sons,Manufacturing,190,PPC,2025-06-21T12:12:30.549925Z
+11,Sheila Delgado,Cooper Ltd,Manufacturing,55,PPC,2025-06-18T12:12:30.549998Z
+12,Scott Miller,Campbell LLC,Manufacturing,338,Organic,2025-06-06T12:12:30.550069Z
+13,Jessica Suarez,Johnston-Cook,Manufacturing,145,PPC,2025-06-03T12:12:30.550149Z
+14,Mario Wong,Mays Group,Technology,157,Referral,2025-06-06T12:12:30.550244Z
+15,Timothy Nolan,Crawford LLC,Healthcare,295,Referral,2025-06-07T12:12:30.550314Z
+16,Brittany Greene,Bell-Stevens,Manufacturing,90,Organic,2025-06-19T12:12:30.550384Z
+17,Kenneth Crane,Mendez and Sons,Healthcare,129,Email,2025-05-27T12:12:30.550477Z
+18,Vincent Hendrix,Gonzalez-Johnson,Technology,128,Referral,2025-06-16T12:12:30.550550Z
+19,Jennifer Smith,Finley-Johnson,Manufacturing,424,PPC,2025-05-30T12:12:30.550660Z
+20,Laura Warner,"Morris, Jones and Taylor",Manufacturing,338,Email,2025-06-12T12:12:30.550754Z
+21,Derek Wells,Perez-Williams,Manufacturing,155,PPC,2025-05-29T12:12:30.550883Z
+22,Stephanie Johnson,"Grant, Fitzpatrick and Scott",Technology,308,Organic,2025-06-11T12:12:30.550977Z
+23,Robert Simon,Lopez-Graham,Finance,425,Email,2025-06-17T12:12:30.551096Z
+24,Michele Campbell,Vasquez-Graham,Technology,372,Organic,2025-06-08T12:12:30.551189Z
+25,Candice French,Mejia and Sons,Manufacturing,70,PPC,2025-06-19T12:12:30.551283Z
+26,Kristen Jackson,"Whitney, Blanchard and Meyers",Manufacturing,295,Email,2025-05-29T12:12:30.551354Z
+27,Stephen Steele,Johns-Sosa,Technology,239,Email,2025-06-26T12:12:30.551477Z
+28,Amanda Flores,Gonzales LLC,Healthcare,52,Referral,2025-06-19T12:12:30.551570Z
+29,Tony Lewis,"Lindsey, Miller and Ramirez",Finance,263,Email,2025-05-27T12:12:30.551642Z
+30,Michael Armstrong,"Ramos, Lane and Baker",Technology,489,PPC,2025-06-21T12:12:30.551760Z
+31,Aaron Johnston DDS,Johnson Ltd,Healthcare,361,Organic,2025-05-28T12:12:30.551879Z
+32,Gina York,Brown Group,Finance,450,Email,2025-06-17T12:12:30.551952Z
+33,Matthew Johnson,Shah and Sons,Technology,139,Organic,2025-06-09T12:12:30.552022Z
+34,Meagan Ochoa,"Blevins, Wood and Kaufman",Finance,62,PPC,2025-06-18T12:12:30.552092Z
+35,Alexandra James,Hayden-Reynolds,Healthcare,56,Referral,2025-06-14T12:12:30.552210Z
+36,Tammy George,Singh-Taylor,Finance,7,PPC,2025-05-28T12:12:30.552304Z
+37,Hannah Henderson,"Harrison, Williams and Smith",Technology,186,Organic,2025-06-25T12:12:30.552397Z
+38,Clayton Nunez,"Love, Newman and Gonzales",Finance,233,Organic,2025-05-28T12:12:30.552516Z
+39,Holly Chang MD,"Nunez, Pacheco and Carter",Technology,98,PPC,2025-06-23T12:12:30.552638Z
+40,Linda Peterson,Duran PLC,Manufacturing,346,Email,2025-06-03T12:12:30.552760Z
+41,Michael Arellano,Morris Group,Manufacturing,183,PPC,2025-06-20T12:12:30.552830Z
+42,Ronald Harris,Weber Group,Finance,432,Email,2025-06-04T12:12:30.552900Z
+43,Angela Phillips MD,"Wilson, Reyes and Jimenez",Manufacturing,340,Email,2025-06-13T12:12:30.552969Z
+44,Travis Graham,Hernandez and Sons,Finance,346,Organic,2025-06-20T12:12:30.553090Z
+45,Kyle Sherman,Zhang-Moore,Technology,42,Email,2025-06-20T12:12:30.553160Z
+46,Jacob Bryant,"Holland, Schultz and Bowman",Manufacturing,359,Organic,2025-06-06T12:12:30.553253Z
+47,Jennifer Oneill,"Estrada, Ortega and Barry",Technology,99,Referral,2025-06-01T12:12:30.553371Z
+48,Jacqueline Houston,Mcdowell-Robinson,Healthcare,225,Organic,2025-06-25T12:12:30.553492Z
+49,Joel Berger,"Garcia, Sampson and Hull",Healthcare,99,Referral,2025-06-07T12:12:30.553595Z
+50,Rebecca Taylor,Quinn-Palmer,Healthcare,216,Referral,2025-06-09T12:12:30.553713Z
