@@ -16,6 +16,8 @@ type Lead = {
   size: number;
   source: string;
   created_at: string;
+  quality?: string;
+  summary?: string;
 };
 
 const Dashboard: React.FC = () => {
@@ -138,6 +140,19 @@ const Dashboard: React.FC = () => {
                 ))}
               </tbody>
             </table>
+            {/* LLM enrichment display */}
+            <div style={{ marginTop: 32 }}>
+              <h3>LLM Enrichment</h3>
+              {leads.map(lead => (
+                (lead.quality || lead.summary) ? (
+                  <div key={lead.id} style={{ border: '1px solid #ccc', borderRadius: 6, padding: 12, marginBottom: 12 }}>
+                    <strong>{lead.company}</strong> — <em>{lead.name}</em><br/>
+                    <span><b>Quality:</b> {lead.quality || 'N/A'}</span><br/>
+                    <span><b>Summary:</b> {lead.summary || 'N/A'}</span>
+                  </div>
+                ) : null
+              ))}
+            </div>
           </>
         ) : (
           <div style={{ width: 500, margin: '0 auto' }}>
